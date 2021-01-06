@@ -1,0 +1,17 @@
+* {
+    margin:
+}
+
+body {
+    text-align: center;
+}
+
+#tribute-info ul {
+    max-width: 700px;
+    text-align: left;
+    margin-left: 300px;
+}
+
+#tribute-info ul li {
+    margin-top: 10px;
+}
